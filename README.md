@@ -1,5 +1,4 @@
-# template-terraform
-Template repository for all terraform module repositories
+# terraform code for Azure log analytics workspace
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
